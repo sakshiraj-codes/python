@@ -1,0 +1,8 @@
+String
+Immutability
+Strings are immutable! (meaning you can't use indexing to change individual elements of a string)
+
+name = "Sam"
+name[0]='p'
+Error
+
